@@ -92,6 +92,7 @@
                             </ul>
                         </li>
                         <li><a href="<?php echo base_url('bku/buku_kas_umum') ?>"><i class="fa fa-files-o"></i> <span class="nav-label">Buku Kas Umum</span></a></li>
+                        <li><a href="<?php echo base_url('bku/buku_kas_umum') ?>"><i class="fa fa-files-o"></i> <span class="nav-label">BUKU JURNAL</span></a></li>
                         <li><a href="<?php echo base_url('laporan/laporan_bku') ?>"><i class="fa fa-files-o"></i> <span class="nav-label">Laporan</span></a></li>
                     </ul>
                 </div>
